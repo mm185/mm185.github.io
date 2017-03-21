@@ -10,6 +10,5 @@ My Tasks:
 * Project management
 * Programming and game design
 
-![escape screenshot](http://i.imgur.com/ncwP2ba.jpg)
-
-**For a video teaser:** <https://vimeo.com/209393676>
+### For a video demonstration, see here:
+[![Escape Game Teaser](http://i.imgur.com/7s99quF.png)](https://vimeo.com/209393676 "Escape Game Teaser - Click to Watch!")
