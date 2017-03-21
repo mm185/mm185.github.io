@@ -4,7 +4,7 @@ title: My first published app!
 image: /img/puzzle.png
 ---
 
-This is a puzzle app I made for "Handygames" as part of my internship. Take your own pictures to create puzzles and share&play them on smartphone and smartwatch devices. It was created with Java only in Android Studio.
+This is a puzzle app I made for "Handygames" as part of my internship. Take your own pictures to create puzzles and play them on smartphone and smartwatch devices. It was created with Java only in Android Studio.
 
 My Tasks:
 * Project management with Scrum
