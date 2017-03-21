@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first published app!
-image: /img/skizze1.png
+image: /img/puzzle.png
 ---
 
 This is a puzzle app I made for Handygames as part of my internship. In it the players can use their own pictures to create puzzles and share&play them on smartphone and smartwatch devices. It was created in Android Studio only.
