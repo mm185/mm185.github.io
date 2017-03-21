@@ -4,10 +4,10 @@ title: My first published app!
 image: /img/puzzle.png
 ---
 
-This is a puzzle app I made for Handygames as part of my internship. In it the players can use their own pictures to create puzzles and share&play them on smartphone and smartwatch devices. It was created in Android Studio only.
+This is a puzzle app I made for "Handygames" as part of my internship. Take your own pictures to create puzzles and share&play them on smartphone and smartwatch devices. It was created with Java only in Android Studio.
 
 My Tasks:
-* Project management with SCRUM
+* Project management with Scrum
 * Programming and game design
 
 ![photo party puzzle screenshot](http://i.imgur.com/rFvNZ3L.png)
