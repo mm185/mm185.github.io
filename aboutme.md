@@ -6,25 +6,25 @@ subtitle: All things about me :)
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="http://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
-developer</strong> in tiny startups (<a href="http://wish.com" target="_blank">Wish.com</a>,
-<a href="http://makeupbee.com" target="_blank">MakeupBee.com</a>,
-<a href="http://glittr.com" target="_blank">glittr.com</a>,
-<a href="http://jauntr.com" target="_blank">jauntr.com</a>).
+Looking for a position
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my MSc in <strong>Bioinformatics</strong> from the University of British Columbia (supervised by the amazing
-<a href="https://twitter.com/JennyBryan" target="_blank">Jenny Bryan</a>) and my Bachelor of <strong>Computer Science</strong> from the
-University of Waterloo, Canada. My masters thesis project involved
-<a href="https://github.com/daattali/ddpcr" target="_blank">developing computational methods to automatically analyze
-droplet digital PCR</a> data.
+Obtained my B.Sc in <strong>Computer Science in Media</strong> from the University of HDM Stuttgart. My bachelor thesis project involved
+developing an analysis software, designed to visualize behavioural data by means of a 3D heat map.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy writing <strong>useful &amp; reusable software tools</strong> to help others — check out <a href="/projects">my projects</a>. In the past several years I've become an experienced R useR and an expert in R-Shiny.
+My skills involve:
+* Android, iOS and hybrid mobile app development
+* Consumer & Enterprise software programing
+* Scrum project management
+* UI-Design
+* SEO
+Things I used:
+Java, JavaEE, Javascript, Typescript, HTML, Angular 1&2, C, C++, Swift, Delphi, Blueprint, Construct2, Winautomation
 </p>
 
 <p class="about-text">
