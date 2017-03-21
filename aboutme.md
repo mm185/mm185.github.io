@@ -10,7 +10,7 @@ Looking for a position
 Obtained my B.Sc in <strong>Computer Science in Media</strong> from the University of HDM Stuttgart. My bachelor thesis project involved
 developing an analysis software, designed to visualize behavioural data by means of a 3D heat map.
 
-<span class="fa fa-address-card about-icon"></span>
+<span class="fa fa-vcard about-icon"></span>
 * Android, iOS and hybrid mobile app development
 * Consumer & Enterprise software programing
 * Scrum project management
