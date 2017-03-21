@@ -13,4 +13,4 @@ This is a puzzle app I made for "Handygames" as part of my internship. Take pict
 
 ![photo party puzzle screenshot](http://i.imgur.com/rFvNZ3L.png)
 
-### Link to google play: <https://play.google.com/store/apps/details?id=com.hg.photopartypuzzle>
+### [Link to google play](https://play.google.com/store/apps/details?id=com.hg.photopartypuzzle)
