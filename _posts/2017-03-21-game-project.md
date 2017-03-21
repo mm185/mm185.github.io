@@ -4,6 +4,8 @@ title: VR game project
 image: /img/skizze1.png
 ---
 
+# escape
+
 This game project was made as part of my studies. In it the player needs to **escape** from the police through a forest. It's an endless runner with "VR motion control" support, created in the Unreal Engine 4.
 
 My Tasks:
