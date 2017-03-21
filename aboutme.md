@@ -7,7 +7,7 @@ subtitle: All things about me :)
 &nbsp;&nbsp;Looking for a position
 
 <span class="fa fa-graduation-cap about-icon"></span>
-&nbsp;&nbsp;Obtained my B.Sc in <strong>Computer Science in Media</strong> from the  
+&nbsp;&nbsp;Obtained my B.Sc in Computer Science in Media from the  
 University "Hochschule der Medien Stuttgart".  
 My bachelor thesis project involved developing an analysis software, designed to visualize behavioural data by means of a 3D heat map.
 
