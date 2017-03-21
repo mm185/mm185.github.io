@@ -4,7 +4,7 @@ title: Marco Martini
 subtitle: All things about me :)
 ---
 <span class="fa fa-briefcase about-icon"></span>
-  Looking for a position
+&nbsp;&nbsp;Looking for a position
 
 <span class="fa fa-graduation-cap about-icon"></span>
 &nbsp;&nbsp;Obtained my B.Sc in <strong>Computer Science in Media</strong> from the  
