@@ -4,6 +4,8 @@ title: My first published app!
 image: /img/puzzle.png
 ---
 
+# Photo Party Puzzle
+
 This is a puzzle app I made for "Handygames" as part of my internship. Take pictures to create custom puzzles, and play them on smartphone and smartwatch devices. The app was created with Java in Android Studio.
 
 My Tasks:
