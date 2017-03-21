@@ -1,10 +1,10 @@
 ---
 layout: post
-title: First game project!
+title: VR game project
 image: /img/skizze1.png
 ---
 
-This was my first game project as part of my studies. In it the player needs to **escape** from the police through a forest. It's an endless runner with "VR motion control" support, made in the Unreal Engine 4.
+This was a game project made as part of my studies. In it the player needs to **escape** from the police through a forest. It's an endless runner with "VR motion control" support, made in the Unreal Engine 4.
 
 My Tasks:
 * Project management
