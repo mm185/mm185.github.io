@@ -2,7 +2,6 @@
 layout: post
 title: First game project!
 image: /img/skizze1.png
-tags: [random, exciting-stuff]
 ---
 
 This was my first game project as part of my studies. It's a endless runner with "VR motion control" support, made in the Unreal Engine 4.
