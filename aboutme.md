@@ -15,14 +15,15 @@ Obtained my B.Sc in <strong>Computer Science in Media</strong> from the Universi
 developing an analysis software, designed to visualize behavioural data by means of a 3D heat map.
 </p>
 
-<span class="fa fa-code about-icon"></span>
-Java, JavaEE, Javascript, Typescript, HTML, Angular 1&2, C, C++, Swift, Delphi, Blueprint, Construct2, Winautomation  
-**Used for:**  
+<span class="fa fa-address-card" aria-hidden="true"></span>
 * Android, iOS and hybrid mobile app development
 * Consumer & Enterprise software programing
 * Scrum project management
 * UI-Design
 * SEO
+
+<span class="fa fa-code about-icon"></span>
+Java, JavaEE, Javascript, Typescript, HTML, Angular 1&2, C, C++, Swift, Delphi, Blueprint, Construct2, Winautomation  
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
