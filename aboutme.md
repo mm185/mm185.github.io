@@ -4,6 +4,8 @@ title: Marco Martini
 subtitle: All things about me :)
 ---
 
+![an example red dot](http://i.imgur.com/D2sWU8f.png)
+
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
