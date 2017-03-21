@@ -16,15 +16,13 @@ developing an analysis software, designed to visualize behavioural data by means
 </p>
 
 <span class="fa fa-code about-icon"></span>
+Java, JavaEE, Javascript, Typescript, HTML, Angular 1&2, C, C++, Swift, Delphi, Blueprint, Construct2, Winautomation  
 **My skills involve:**  
 * Android, iOS and hybrid mobile app development
 * Consumer & Enterprise software programing
 * Scrum project management
 * UI-Design
 * SEO
-
-**Things I used:**  
-Java, JavaEE, Javascript, Typescript, HTML, Angular 1&2, C, C++, Swift, Delphi, Blueprint, Construct2, Winautomation
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
