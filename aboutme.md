@@ -18,8 +18,12 @@ My bachelor thesis involved developing an analysis software, designed to visuali
 &nbsp;&nbsp;Java, JavaEE, Javascript, Typescript, HTML, Angular 1&2, C, C++, Swift, Delphi, Blueprint, Construct2, Winautomation.
 
 <span class="fa fa-heart about-icon"></span>
-&nbsp;&nbsp; I code small games in my freetime, like to go to the movies, and visit the gym so that I can cook&eat more!
-Also travelling and meeting nice people :)
+&nbsp;&nbsp; I code small games in my freetime, like to go to the movies, and visit the gym so that I can cook&eat more ;)
+Also travelling and meeting nice people!
 
 <span class="fa fa-globe about-icon"></span>
 &nbsp;&nbsp;Grew up and living in a small village near Stuttgart Germany.
+
+So much for myself :) You can also check out my [projects](https://mm185.github.io/)
+
+![me](http://i.imgur.com/bu62sa5.jpg)
