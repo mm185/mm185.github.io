@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VR game project
+title: Game project - VR endless runner
 image: /img/skizze1.png
 ---
 
