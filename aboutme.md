@@ -24,6 +24,6 @@ Also travelling and meeting nice people!
 <span class="fa fa-globe about-icon"></span>
 &nbsp;&nbsp;Grew up and living in a small village near Stuttgart Germany.
 
-<p style="text-align: center;">So much for myself :) You can also check out my</p> [projects](https://mm185.github.io/)!
+<p style="text-align: center;">So much for myself :) Also check out my <a href="https://mm185.github.io/">projects!</a></p>
 
 ![me](http://i.imgur.com/bu62sa5.jpg)
